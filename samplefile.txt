@@ -8,4 +8,10 @@ i'm sargaraj!!
 
 how are you??
 
+<<<<<<< HEAD
 sry not intrested to reply for that...
+=======
+i'm good.
+ 
+Thanks!!
+>>>>>>> feature
